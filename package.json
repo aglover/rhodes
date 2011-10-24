@@ -1,0 +1,9 @@
+{
+  "name": "node-redis",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.2.0",
+    "nohm": "0.6.1",
+    "redis": ">=0.5.9"
+  }
+}
